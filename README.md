@@ -15,7 +15,8 @@ the internet like FTP, Skype, etc. should be blocked.
 >### The Package includes -
 ```
 1. Report
-2. Cisco Packet Tracer Topology
+2. PPT Presentation
+3. Cisco Packet Tracer Topology
 ```
 
 
@@ -27,12 +28,22 @@ the internet like FTP, Skype, etc. should be blocked.
 4.  TCP/IP addressing
 5.  Network Design strategy
 6.  Router Configuration
-7.  Router Configuration explained.
+7.  Router Configuration explained
 8.  Conclusion
 9.  Reference
 ```
 
 
+>### PPT Contains -
+```
+1. Problem
+2. Network Topology Diagram
+3. TCP/IP addressing
+4. Network design strategy
+5. Results and Discussion
+6. Router Configuration
+7. Router Configuration explained
+```
 
 
 # ☎️ Contact to BUY the project @299/- Rupees Only ☎️
