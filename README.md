@@ -1,5 +1,5 @@
-# Internet Usage Contriol Using Access Control Technique
-## Project Title – Internet Usage Contriol Using Access Control Technique using Cisco Packet Tracer
+# Internet Usage Control Using Access Control Technique
+## Project Title – Internet Usage Control Using Access Control Technique using Cisco Packet Tracer
 ### Computer Communication and Network Project with Documentation
 
 
